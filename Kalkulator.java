@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Kalkulator {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args){
         System.out.println("Jakie działanie chcesz wykonać? Do wyboru: +, -, *, /");
